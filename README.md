@@ -25,4 +25,12 @@ The model is trained on a publicly available Graduate Admissions dataset. It tak
 - Python  
 - Pandas, NumPy, Scikit-learn  
 - Streamlit 
-- Git for version control  
+- Git for version control
+
+## Contributors
+
+  This project was developed as a group effort by the following members:
+
+  1. Haris Ahmad
+  2. Muhammad Rehan
+  3. Saad Jamil
